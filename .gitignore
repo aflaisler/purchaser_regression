@@ -1,0 +1,6 @@
+TensorFlow/*
+books/*
+take_home/*
+*.csv
+*.tsv
+*.txt
